@@ -5,7 +5,11 @@ Change 1 – commit with message as “Change1 in File1"
  
 Change 2 – commit with message as “Change2 in File2"
 
+
 This commit is for master branch creating scenario for rebasing 
 
 This is for bug idea
+
+
+Change 3 - This is not commited and the scenario is created for stagging
 
